@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my profile! I recently graduated with a master's degree in software engineering from KPI, Kyiv. Therefore, now I am looking for new opportunities for self-satisfaction and development. At the moment, I'm learning backend development mostly in Python, but it's not always enough, so I'm putting all my efforts into learning new technologies in order to fulfill the task at hand.
+🎉 Welcome to my profile! I recently graduated with a master's degree in software engineering from KPI, Kyiv. Therefore, now I am looking for new opportunities for self-satisfaction and development. 📚 At the moment, I'm learning backend development mostly in Python 🐍, but it's not always enough, so I'm putting all my efforts into learning new technologies 💻 in order to fulfill the task at hand. 🚀
 
 
 ## 💻 Tech Stack:
@@ -9,7 +9,7 @@ Welcome to my profile! I recently graduated with a master's degree in software e
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=workprior&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-### Meme 😇
+## 😇 Meme 
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
